@@ -241,7 +241,7 @@
     {
       "id": "l_emma1",
       "title": "CRM Implementation",
-      "contactName": "Emma Wilson",
+      "contactName": "Issa Chamseddine",
       "company": "Bright Solutions",
       "email": "emma@brightsolutions.com",
       "source": "Referral",
@@ -257,7 +257,7 @@
     {
       "id": "l_emma2",
       "title": "Website Redesign",
-      "contactName": "Emma Wilson",
+      "contactName": "Issa Chamseddine",
       "company": "Bright Solutions",
       "email": "emma@brightsolutions.com",
       "source": "Client Portal",
@@ -272,7 +272,7 @@
     {
       "id": "l_emma3",
       "title": "Mobile App MVP",
-      "contactName": "Emma Wilson",
+      "contactName": "Issa Chamseddine",
       "company": "Bright Solutions",
       "email": "emma@brightsolutions.com",
       "source": "Client Portal",
@@ -1274,7 +1274,7 @@
     {
       "id": "l64",
       "title": "ERP Integration",
-      "contactName": "Emma Wilson",
+      "contactName": "Issa Chamseddine",
       "company": "Bright Solutions",
       "email": "emma@brightsolutions.com",
       "phone": "+1 555 4328",
@@ -1550,7 +1550,7 @@
     {
       "id": "l82",
       "title": "Website Redesign",
-      "contactName": "Emma Wilson",
+      "contactName": "Issa Chamseddine",
       "company": "Bright Solutions",
       "email": "emma@brightsolutions.com",
       "phone": "+1 555 3592",
@@ -1703,7 +1703,7 @@
     {
       "id": "l92",
       "title": "Mobile App",
-      "contactName": "Emma Wilson",
+      "contactName": "Issa Chamseddine",
       "company": "Bright Solutions",
       "email": "emma@brightsolutions.com",
       "phone": "+1 555 6414",
@@ -1963,7 +1963,7 @@
     {
       "id": "l109",
       "title": "Security Audit",
-      "contactName": "Emma Wilson",
+      "contactName": "Issa Chamseddine",
       "company": "Bright Solutions",
       "email": "emma@brightsolutions.com",
       "phone": "+1 555 3700",
@@ -2437,7 +2437,7 @@
     {
       "id": "l140",
       "title": "SEO Package",
-      "contactName": "Emma Wilson",
+      "contactName": "Issa Chamseddine",
       "company": "Bright Solutions",
       "email": "emma@brightsolutions.com",
       "phone": "+1 555 4000",
@@ -2786,7 +2786,7 @@
     {
       "id": "l163",
       "title": "Annual Support",
-      "contactName": "Emma Wilson",
+      "contactName": "Issa Chamseddine",
       "company": "Bright Solutions",
       "email": "emma@brightsolutions.com",
       "phone": "+1 555 4374",
@@ -3492,7 +3492,7 @@
       "id": "a1",
       "type": "lead",
       "title": "New lead added",
-      "subtitle": "Emma Wilson – Bright Solutions",
+      "subtitle": "Issa Chamseddine – Bright Solutions",
       "time": "-2min",
       "customerId": "c0"
     },
